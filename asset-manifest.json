@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Testovoe/static/css/main.9ea42667.css",
+    "main.js": "/Testovoe/static/js/main.0526f27e.js",
+    "static/js/453.a6a97343.chunk.js": "/Testovoe/static/js/453.a6a97343.chunk.js",
+    "static/media/ull.png": "/Testovoe/static/media/ull.fbf9bce9fe637ccafa1d.png",
+    "static/media/2.png": "/Testovoe/static/media/2.2e5f90d649b994b5e76d.png",
+    "static/media/1.png": "/Testovoe/static/media/1.704cf9846911e1c79a6f.png",
+    "static/media/i1.svg": "/Testovoe/static/media/i1.47631bb3e4516cbfefd0d377f350655a.svg",
+    "index.html": "/Testovoe/index.html",
+    "static/media/t1.svg": "/Testovoe/static/media/t1.e227dfb2e496323c48b1d675a8a000a6.svg",
+    "static/media/f1.svg": "/Testovoe/static/media/f1.66cce5700e69823a25b8387c00482155.svg",
+    "main.9ea42667.css.map": "/Testovoe/static/css/main.9ea42667.css.map",
+    "main.0526f27e.js.map": "/Testovoe/static/js/main.0526f27e.js.map",
+    "453.a6a97343.chunk.js.map": "/Testovoe/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ea42667.css",
+    "static/js/main.0526f27e.js"
+  ]
+}
